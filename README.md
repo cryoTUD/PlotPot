@@ -1,1 +1,6 @@
-Handy plotting and lab-data utilities for everyday experiments.
+Handy plotting and lab-data utilities for everyday experiments. Some plotting tools are available as Colab workspaces/
+
+Plotting of SEC-MALS data: <a target="_blank" href="https://colab.research.google.com/github/cryoTUD/PlotPot/blob/main/PlotPot_sec_mals_colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
